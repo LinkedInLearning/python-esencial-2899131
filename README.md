@@ -1,12 +1,13 @@
-# Nombre final del curso
+# Python esencial		
 
-Este es el repositorio del curso de LinkedIn Learning [nombre del curso]. El curso completo está disponible en [LinkedIn Learning][lil-course-url].
+Este es el repositorio del curso de LinkedIn Learning [Python esencial]. El curso completo está disponible en [LinkedIn Learning][lil-course-url].
 
 ![Nombre completo del curso][lil-thumbnail-url] 
 
 Consulta el archivo Readme en la rama main para obtener instrucciones e información actualizadas.
 
 DESCRIPCIÓN DEL CURSO
+Aprende los conceptos básicos de la programación en Python e iníciate en este lenguaje con este curso. Durante el contenido, entenderás conceptos de programación en Python, como variables, condiciones, ciclos, funciones, POO, lectura de archivos y manejo de errores y excepciones para, así, aplicarlas a tus propios desarrollos. Para cada uno de los temas se explicará el concepto a nivel general de la programación y se irán explicando también como aplicarlos en Python con ejemplos que te serán muy útiles. ¿Vamos a ello?		
 
 ## Instrucciones
 
@@ -26,9 +27,8 @@ Las ramas están estructuradas para corresponder a los vídeos del curso. La con
 
 ### Docente
 
-**Nombre del docente**
+**Ana María Pinto**
 
-Echa un vistazo a mis otros cursos en [LinkedIn Learning](https://www.linkedin.com/learning/instructors/).
 
 [lil-course-url]: https://www.linkedin.com/learning/building-a-graphql-project-with-react-js
 [lil-thumbnail-url]: https://cdn.lynda.com/course/2875095/2875095-1615224395432-16x9.jpg
