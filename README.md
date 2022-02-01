@@ -31,6 +31,9 @@ Las ramas están estructuradas para corresponder a los vídeos del curso. La con
 
 **Ana María Pinto**
 
+_Desarrolladora Python, Ingeniera Mecatrónica_
 
-[lil-course-url]: https://www.linkedin.com/learning/building-a-graphql-project-with-react-js
-[lil-thumbnail-url]: https://cdn.lynda.com/course/2875095/2875095-1615224395432-16x9.jpg
+Revisa mis cursos en [LinkedIn Learning](https://www.linkedin.com/learning/instructors/ana-maria-pinto).
+
+[lil-course-url]: https://www.linkedin.com/learning/python-esencial-15349768
+[lil-thumbnail-url]: https://media-exp1.licdn.com/dms/image/C560DAQHfn0-Tgth7lA/learning-public-crop_675_1200/0/1643036305741?e=1643788800&v=beta&t=FQu_QY7-K0JwyqefuLyaUOkuN5QLCOVxpPOpJKoySNY
