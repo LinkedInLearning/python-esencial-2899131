@@ -36,4 +36,4 @@ _Desarrolladora Python, Ingeniera Mecatrónica_
 Revisa mis cursos en [LinkedIn Learning](https://www.linkedin.com/learning/instructors/ana-maria-pinto).
 
 [lil-course-url]: https://www.linkedin.com/learning/python-esencial-15349768
-[lil-thumbnail-url]: https://media-exp1.licdn.com/dms/image/C560DAQHfn0-Tgth7lA/learning-public-crop_675_1200/0/1643036305741?e=1643788800&v=beta&t=FQu_QY7-K0JwyqefuLyaUOkuN5QLCOVxpPOpJKoySNY
+[lil-thumbnail-url]: https://www.linkedin.com/learning/python-esencial-15349768?u=104
